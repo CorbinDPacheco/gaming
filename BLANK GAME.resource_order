@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"PlayerTest","order":1,"path":"sprites/PlayerTest/PlayerTest.yy",},
+    {"name":"SoildBrick","order":2,"path":"sprites/SoildBrick/SoildBrick.yy",},
+  ],
+}
