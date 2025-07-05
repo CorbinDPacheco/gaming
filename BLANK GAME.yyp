@@ -37,6 +37,8 @@
   "resources":[
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"PlayerTest","path":"sprites/PlayerTest/PlayerTest.yy",},},
+    {"id":{"name":"SoildBrick","path":"sprites/SoildBrick/SoildBrick.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
