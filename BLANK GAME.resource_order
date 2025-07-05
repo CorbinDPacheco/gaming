@@ -1,7 +1,11 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Background","order":2,"path":"folders/Sprites/Background.yy",},
+    {"name":"Foreground","order":3,"path":"folders/Sprites/Foreground.yy",},
+    {"name":"Misc","order":4,"path":"folders/Sprites/Misc.yy",},
+    {"name":"Player","order":1,"path":"folders/Sprites/Player.yy",},
+  ],
   "ResourceOrderSettings":[
-    {"name":"PlayerTest","order":1,"path":"sprites/PlayerTest/PlayerTest.yy",},
-    {"name":"SoildBrick","order":2,"path":"sprites/SoildBrick/SoildBrick.yy",},
+    {"name":"PlayerV1","order":1,"path":"sprites/PlayerV1/PlayerV1.yy",},
   ],
 }
