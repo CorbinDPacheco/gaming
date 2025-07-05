@@ -1,4 +1,4 @@
 
-angular_velocity -= angular_acceleration
+angular_velocity += angular_acceleration
 
 
