@@ -1,11 +1,18 @@
 {
   "FolderOrderSettings":[
+    {"name":"Blocks","order":4,"path":"folders/Objects/Blocks.yy",},
+    {"name":"Characters","order":3,"path":"folders/Objects/Characters.yy",},
+    {"name":"Misc","order":5,"path":"folders/Objects/Misc.yy",},
     {"name":"Background","order":2,"path":"folders/Sprites/Background.yy",},
     {"name":"Foreground","order":3,"path":"folders/Sprites/Foreground.yy",},
     {"name":"Misc","order":4,"path":"folders/Sprites/Misc.yy",},
     {"name":"Player","order":1,"path":"folders/Sprites/Player.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_BIGBRICKTEST","order":2,"path":"objects/obj_BIGBRICKTEST/obj_BIGBRICKTEST.yy",},
+    {"name":"obj_parent_collision","order":1,"path":"objects/obj_parent_collision/obj_parent_collision.yy",},
+    {"name":"obj_SoildBrick","order":1,"path":"objects/obj_SoildBrick/obj_SoildBrick.yy",},
     {"name":"PlayerV1","order":1,"path":"sprites/PlayerV1/PlayerV1.yy",},
+    {"name":"Sprite5","order":1,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }

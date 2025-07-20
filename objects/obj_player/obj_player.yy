@@ -13,10 +13,13 @@
   "name":"obj_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Characters",
+    "path":"folders/Objects/Characters.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_parent_collision",
+    "path":"objects/obj_parent_collision/obj_parent_collision.yy",
+  },
   "persistent":true,
   "physicsAngularDamping":1.0,
   "physicsDensity":0.5,
@@ -40,8 +43,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"PlayerV2",
-    "path":"sprites/PlayerV2/PlayerV2.yy",
+    "name":"PlayerV1",
+    "path":"sprites/PlayerV1/PlayerV1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
